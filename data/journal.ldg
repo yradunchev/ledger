@@ -1,0 +1,40 @@
+2018-04-01 * Opening Balances
+  Assets:DSKBank:Current  398.42 BGN
+  Assets:DSKBank:Savings  8440.71 BGN
+  Assets:DSKBank:VirtualVisa  67.61 BGN
+  Assets:Cash  65.89 BGN
+  Equity:Opening Balances
+2018-04-01 * Kenvelo
+  Expenses:ClothesShoes  161.93 BGN ; тениски,панталони
+  Assets:DSKBank:Current
+2018-04-01 * Coffee Office
+  Expenses:CoffeeWater  1.6 BGN ; water
+  Assets:Cash
+2018-04-01 * Starata Pekarna
+  Expenses:Groceries  8.40 BGN ; nuts
+  Assets:Cash
+2018-04-01 * Coffee Corner
+  Expenses:Groceries  11.39 BGN ; cakes
+  Assets:Cash
+2018-04-01 * PRO IV-NI 
+  Expenses:Groceries  6.57 BGN ; beer,yogurt
+  Assets:DSKBank:Current 
+2018-04-01 * Cash > Zori
+  Expenses:Unknown  42 BGN ; кеш за Зори
+  Assets:Cash
+2018-04-02 * ATM
+  Assets:Cash  120 BGN
+  Expenses:DSKBank:Tax  1.1 BGN
+  Assets:DSKBank:Current
+2018-04-02 * Coffee Office
+  Expenses:CoffeeWater  4 BGN
+  Assets:Cash
+2018-04-02 * Remedium
+  Expenses:Suplements  36.52 BGN ; melatonin 10mg x 2 botles
+  Assets:DSKBank:Current
+2018-04-02 * PRO IV-NI
+  Expenses:Groceries  25.14 BGN
+  Assets:DSKBank:Current
+2018-04-02 * MSD Team
+  Expenses:Pets  13.50 BGN
+  Assets:DSKBank:Current  
