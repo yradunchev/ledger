@@ -37,4 +37,22 @@
   Assets:DSKBank:Current
 2018-04-02 * MSD Team
   Expenses:Pets  13.50 BGN
-  Assets:DSKBank:Current  
+  Assets:DSKBank:Current 
+2018-04-03 * Coffee Office
+  Expenses:CoffeeWater  2 BGN
+  Assets:Cash
+2018-04-03 * Chinese Restaurant Kaloyan
+  Expenses:MealOut  10 BGN
+  Assets:Cash
+2018-04-03 * Bday Office
+  Expenses:SocialActivity  10 BGN
+  Assets:Cash
+2018-04-03 * Coffee Office
+  Expenses:CoffeeWater  1.2 BGN
+  Assets:Cash
+2018-04-03 * PRO IV-NI
+  Expenses:Groceries  16.52 BGN
+  Assets:DSKBank:Current
+2018-04-03 * Briks
+  Expenses:MealOut  15 BGN
+  Assets:Cash
