@@ -4,13 +4,10 @@ account Assets:DSKBank:Savings
 account Assets:DSKBank:VirtualVisa
 account Expenses:Utils:Electriity
 account Expenses:Utils:Water
-account Expenses:Media:InetCableTv
-account Expenses:Media:Netfilx
-account Expenses:Media:Spotify
-account Expenses:Media:Toest
-account Expenses:Media:Brainpickings
+account Expenses:Utils:InetCableTv
+account Expenses:Subscriptions
 account Expenses:Groseries
-account Expenses:Car:Gas
+account Expenses:Car:Petrol
 account Expenses:Car:Maintenance
 account Expenses:Pets
 account Expenses:DSKBank:Taxes
@@ -22,6 +19,9 @@ account Expenses:Travel
 account Expenses:CoffeeWater
 account Expenses:ClothesShoes
 account Expenses:Suplements
+account Expenses:House
+account Expenses:Books
 account Equity
 account Income:Salary
+account Income:Other
 account Expenses:SocialActivity
