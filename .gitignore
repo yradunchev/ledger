@@ -1,2 +1,3 @@
 *.prsnt
-journal.ldg
+data/journal.ldg
+.gitignore
