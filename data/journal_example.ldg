@@ -1,0 +1,35 @@
+2018-04-01 * Opening Balances
+  Assets:DSKBank:Current  1000 BGN
+  Assets:DSKBank:Savings  1000 BGN
+  Assets:DSKBank:VirtualVisa  1000 BGN
+  Assets:Cash  100 BGN
+  Equity:Opening Balances
+
+2018-04-01 * Kenvelo
+  Expenses:ClothesShoes  161.93 BGN  ; тениски, панталони, ризи
+  Assets:DSKBank:Current
+
+2018-04-01 * Made in Blue
+  Expenses:MealOut  38.6 BGN  ; обяд
+  Assets:Cash
+
+2018-04-02 * Bakalia 2014
+  Expenses:Groceries  18.40 BGN
+  Assets:Cash
+
+2018-04-03 * Employer  ; Св. Париций
+  Assets:DSKBank:Current  1000 BGN
+  Income:Salary
+
+2018-04-03 * ATM
+  Assets:Cash  50 BGN 
+  Expenses:DSKBank:Taxes  1.2 BGN
+  Assets:DSKBank:Current
+
+2018-04-05 * Internal DSKBank
+  Assets:DSKBank:Savings  500 BGN
+  Assets:DSKBank:Current
+
+2018-04-10 * Netflix
+  Expenses:Subscriptions  19.30 BGN
+  Assets:DSKBank:VirtualVisa
