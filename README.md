@@ -7,14 +7,13 @@
 
 
 ### meta files
-
-data/assets.ldg
-data/commodity.ldg
-data/equity.ldg
-data/expenses.ldg
-data/income.ldg
-data/s_budget.ldg
-data/budget_example.ldg
+data/assets.ldg   
+data/commodity.ldg   
+data/equity.ldg   
+data/expenses.ldg   
+data/income.ldg   
+data/s_budget.ldg   
+data/budget_example.ldg   
 
 ### journal file
 data/journal_example.ldg
