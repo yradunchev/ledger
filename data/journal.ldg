@@ -2,7 +2,7 @@
   Assets:DSKBank:Current  398.42 BGN
   Assets:DSKBank:Savings  8440.71 BGN
   Assets:DSKBank:VirtualVisa  67.61 BGN
-  Assets:Cash  65.89 BGN
+  Assets:Cash  100.89 BGN
   Equity:Opening Balances
 2018-04-01 * Kenvelo
   Expenses:ClothesShoes  161.93 BGN  ; тениски,панталони
@@ -212,9 +212,6 @@
 2018-04-14 * Starata Kashta
   Expenses:MealOut  35.00 BGN
   Assets:Cash
-2018-04-14 * Toni & Petar  ;  билет за Хиподил, Ревю, Контрол
-  Assets:Cash  35.00 BGN
-  Income:Other
 2018-04-14 * DSKBank Internal Trans
   Assets:DSKBank:Current  300 BGN
   Assets:DSKBank:Savings
@@ -294,7 +291,7 @@
 2018-04-18 * Obekt Rodopa  ; бързото кебапче
   Expenses:MealOut  5.70 BGN
   Assets:Cash
-2018-04-18 * Vasmalt OOD  ; сладолед на Витошка
+2018-04-18 * Vasmalt EOOD  ; сладолед на Витошка
   Expenses:MealOut  7.98 BGN
   Assets:Cash
 2018-04-18 * BAT-2014
@@ -501,7 +498,7 @@
 2018-05-03 * GMG Group
   Expenses:MealOut  16.66 BGN
   Assets:DSKBank:Current
-2018-05-03 ATM
+2018-05-03 * ATM
   Assets:Cash  130.00 BGN
   Expenses:DSKBank:Tax  2.20 BGN
   Assets:DSKBank:Current
@@ -525,9 +522,162 @@
   Expenses:MealOut  40.00 BGN
   Assets:Cash
 2018-05-04 * Bakalia 2014 OOD
-  Expnenses:Pets  5.00 BGN
+  Expenses:Pets  5.00 BGN
   Expenses:Groceries  5 BGN
   Assets:Cash
 2018-05-05 * DSKBank Internal Trans
   Assets:DSKBank:Current  300 BGN
   Assets:DSKBank:Savings
+2018-05-05 * Vela Hills Restaurant
+  Expenses:MealOut  47.10 BGN
+  Assets:DSKBank:Current
+2018-05-05 * Lukoil
+  Expenses:Car:Petrol  63.72 BGN
+  Expenses:CoffeeWater  1.98 BGN
+  Assets:DSKBank:Current
+2018-05-06 * Lidl
+  Expenses:Groceries  43.55 BGN
+  Assets:DSKBank:Current
+2018-05-06 Pliocene park
+  Expenses:Entertainment  17.50 BGN  ; entance fee and magnet Dorkovo 
+  Expenses:CoffeeWater  2.40 BGN
+  Assets:Cash
+2018-05-07 * DSKBank Internal Trans
+  Assets:DSKBank:Current  138.12 BGN
+  Assets:DSKBank:Savings
+2018-05-07 * Kleptuza Velingrad  ; паркинг Тотка
+  Expenses:Car:Parking  2.00 BGN
+  Assets:Cash
+2018-05-07 * Bakalia 2014 OOD
+  Expenses:Groceries  27.50 BGN
+  Assets:DSKBank:Current
+2018-05-08 * Coffee Office
+  Expenses:CoffeeWater  2.5 BGN
+  Assets:Cash
+2018-05-08 * Helikon
+  Expenses:Books  72.30 BGN
+  Assets:DSKBank:Current
+2018-05-08 * Nuts House
+  Expenses:MealOut  7.50 BGN
+  Assets:Cash
+2018-05-08 * ATM
+  Assets:Cash  120.00 BGN
+  Expenses:DSKBank:Tax  1.10 BGN
+  Assets:DSKBank:Current
+2018-05-08 * FruVeg
+  Expenses:Groceries  9.60 BGN
+  Assets:Cash
+2018-05-09 * OK Supertrans
+  Expenses:Taxi  6.00  BGN
+  Assets:Cash
+2018-05-09 * Coffee Office
+  Expenses:CoffeeWater  8.30 BGN
+  Assets:Cash
+2018-05-09 * Qufteteria
+  Expenses:MealOut  22 BGN
+  Assets:Cash
+2018-05-09 * Lindt
+  Expenses:MealOut  10.68 BGN
+  Assets:DSKBank:Current
+2018-05-09 * Bakalia 2014 OOD
+  Expenses:Pets  10.11 BGN
+  Assets:DSKBank:Current
+2018-05-09 * PRO IV-NI
+  Expenses:Groceries  35.90 BGN
+  Assets:DSKBank:Current
+2018-05-10 * OK Supertrans
+  Expenses:Taxi  6.00  BGN
+  Assets:Cash
+2018-05-10 * Coffee Office
+  Expenses:CoffeeWater  2.50 BGN
+  Assets:Cash
+2018-05-10 * Trops
+  Expenses:MealOut  9.14 BGN
+  Assets:Cash
+2018-05-10 * JoeMip  ; холандската пекарна
+  Expenses:MealOut  3.30 BGN
+  Assets:Cash
+2018-05-10 * Aiio M Company  ; зеленчук Солунска и Кънчев
+  Expenses:Groceries  3.34 BGN
+  Assets:Cash
+2018-05-10 * Netflix
+  Expenses:Subscriptions  19.58 BGN
+  Assets:DSKBank:VirtualVisa
+2018-05-11 * DSKBank Internal Trans
+  Assets:DSKBank:Current  200 BGN
+  Assets:DSKBank:Savings
+2018-05-11 * OK Supertrans
+  Expenses:Taxi  5.00  BGN
+  Assets:Cash
+2018-05-11 * Vrita OOD
+  Expenses:Gadgets  48 BGN
+  Assets:Cash
+2018-05-11 * Coffee Office
+  Expenses:CoffeeWater  6.4 BGN
+  Assets:Cash
+2018-05-11 * Shtastlivetsa
+  Expenses:MealOut  44 BGN
+  Assets:Cash
+2018-05-11 * ATM
+  Assets:Cash  130 BGN
+  Expenses:DSKBank:Tax  1.1 BGN
+  Assets:DSKBank:Current
+2018-05-11 * Tagara EOOD
+  Expenses:Groceries  12.03 BGN
+  Assets:DSKBank:Current
+2018-05-11 * Vasmalt EOOD  ; сладолед рафи витошка
+  Expenses:MealOut  3.99 BGN
+  Assets:Cash
+2018-05-11 * PRO IV-NI
+  Expenses:Groceries  35.31 BGN
+  Assets:DSKBank:Current
+2018-05-11 * Bakalia 2014 OOD
+  Expenses:Groceries  5.33 BGN
+  Assets:DSKBank:Current
+2018-05-11 * Brain Pickings
+  Expenses:Subscriptions  5.15 BGN
+  Assets:DSKBank:VirtualVisa
+2018/05/12 * PRO IV-NI
+  Expenses:Groceries  14.03 BGN
+  Assets:DSKBank:Current
+2018/05/12 * FruVeg
+  Expenses:Groceries  28.40 BGN
+  Assets:Cash
+2018-05-13 * DSKBank Internal Trans
+  Assets:DSKBank:Current  200 BGN
+  Assets:DSKBank:Savings
+2018/05/13 * PRO IV-NI
+  Expenses:Groceries  45.85 BGN
+  Assets:DSKBank:Current
+2018/05/14 * Coffee Office
+  Expenses:CoffeeWater  2.0 BGN
+  Assets:Cash
+2018/05/14 * KOSMOS BASH GOURMET
+  Expenses:MealOut  45 BGN
+  Assets:DSKBank:Current
+2018/05/14 * PRO IV-NI
+  Expenses:Groceries  5.17 BGN
+  Assets:DSKBank:Current
+2018/05/14 * Bakalia 2014 OOD
+  Expenses:Pets  6.44 BGN
+  Expenses:Groceries  9.21 BGN
+  Assets:DSKBank:Current
+2018/05/14 * Vasmalt EOOD
+  Expenses:MealOut  7.98 BGN
+  Assets:Cash
+2018/05/15 * Trops
+  Expenses:MealOut  4.55 BGN
+  Assets:DSKBank:Current
+2018/05/15 * Gelato Afreddo
+  Expenses:MealOut  2.89 BGN
+  Assets:DSKBank:Current
+2018/05/15 * Coffee Office
+  Expenses:CoffeeWater  5.8 BGN
+  Assets:Cash
+2018/05/15 * Kiki
+  Expenses:Unknown  6.65 BGN
+  Assets:Cash
+2018/05/15 * Diet Doctor Sweden AB
+  Expenses:Subscriptions  15.36 BGN
+  Assets:DSKBank:VirtualVisa
+
