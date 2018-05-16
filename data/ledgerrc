@@ -1,0 +1,9 @@
+--pedantic
+--explicit
+--file ~/L/ledger/data/expenses.ldg 
+--file ~/L/ledger/data/assets.ldg
+--file ~/L/ledger/data/equity.ldg 
+--file ~/L/ledger/data/income.ldg
+--file ~/L/ledger/data/s_budget.ldg
+--file ~/L/ledger/data/budget.ldg
+--file ~/L/ledger/data/journal.ldg
