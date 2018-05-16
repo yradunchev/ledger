@@ -1,6 +1,6 @@
 --pedantic
 --explicit
---file ~/L/ledger/data/comodity.ldg
+--file ~/L/ledger/data/commodity.ldg
 --file ~/L/ledger/data/expenses.ldg 
 --file ~/L/ledger/data/assets.ldg
 --file ~/L/ledger/data/equity.ldg 
