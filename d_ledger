@@ -1,5 +1,5 @@
 alias led='ledger'
-alias post='vim "+normal G$" +startinsert /home/mumrik/L/ledger/data/journal.ldg'
+alias post='vim "+normal G$" +startinsert ~/L/ledger/data/journal.ldg'
 alias assets='ledger b ^assets --flat'
 alias expenses='ledger r -r assets -s'
 alias budget='led b budget --flat -p $( date +%b )'
