@@ -1,7 +1,7 @@
 # my ledger-cli setup
 
 ### notes:
-Configuration file goes to $HOME and should be named _.ledgerrc_   
+Configuration file goes to $HOME   
 Order of loading meta files (in _.ledgerrc_) is important.   
 
 
