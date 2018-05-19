@@ -1,7 +1,7 @@
 # my ledger-cli setup
 
 ### meta files
-- data/assets.ldg - Assets definitions    
+- [data/assets.ldg](data/assets.ldg) - Assets definitions    
 - data/commodity.ldg - Commodity definitions   
 - data/equity.ldg - Equity definitions   
 - data/expenses.ldg - Expenses definitions   
