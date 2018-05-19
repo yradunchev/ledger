@@ -2,21 +2,21 @@
 
 ### meta files
 - [data/assets.ldg](data/assets.ldg) - Assets definitions    
-- data/commodity.ldg - Commodity definitions   
-- data/equity.ldg - Equity definitions   
-- data/expenses.ldg - Expenses definitions   
-- data/income.ldg - Income definitions   
-- data/s_budget.ldg - Budget automation   
-- data/budget_example.ldg - Budget definitions   
+- [data/commodity.ldg](data/commodity.ldg) - Commodity definitions   
+- [data/equity.ldg](data/equity.ldg) - Equity definitions   
+- [data/expenses.ldg](data/expenses.ldg) - Expenses definitions   
+- [data/income.ldg](data/income.ldg) - Income definitions   
+- [data/s_budget.ldg](data/s_budget.ldg) - Budget automation   
+- [data/budget_example.ldg](data/budget_example.ldg) - Budget definitions   
 
 ### example journal file
-- data/journal_example.ldg - Example ledger
+- [data/journal_example.ldg](data/journal_example.ldg) - Example ledger
 
 ### ledger bash aliases
-- d_ledger - bash aliases and functions
+- [d_ledger](d_ledger) - bash aliases and functions
 
 ### ledger configuration file
-- ledgerrc - Configuration file for ledger
+- [ledgerrc](ledgerrc) - Configuration file for ledger
 
 ## useful ledger links:
 
