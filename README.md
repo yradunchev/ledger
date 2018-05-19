@@ -13,10 +13,10 @@ data/budget_example.ldg
 data/journal_example.ldg
 
 ### bash aliases
-data/d_ledger
+d_ledger
 
 ### config file
-data/ledgerrc
+ledgerrc
 
 ## some links:
 
