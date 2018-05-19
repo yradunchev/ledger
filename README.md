@@ -1,24 +1,24 @@
 # my ledger-cli setup
 
 ### meta files
-data/assets.ldg   
-data/commodity.ldg   
-data/equity.ldg   
-data/expenses.ldg   
-data/income.ldg   
-data/s_budget.ldg   
-data/budget_example.ldg   
+- data/assets.ldg - Assets definitions    
+- data/commodity.ldg - Commodity definitions   
+- data/equity.ldg - Equity definitions   
+- data/expenses.ldg - Expenses definitions   
+- data/income.ldg - Income definitions   
+- data/s_budget.ldg - Budget automation   
+- data/budget_example.ldg - Budget definitions   
 
-### journal file
-data/journal_example.ldg
+### example journal file
+- data/journal_example.ldg - Example ledger
 
-### bash aliases
-d_ledger
+### ledger bash aliases
+- d_ledger - bash aliases and functions
 
-### config file
-ledgerrc
+### ledger configuration file
+- ledgerrc - Configuration file for ledger
 
-## some links:
+## useful ledger links:
 
 [Plain Text Accounting's Ledger CLI Quick Reference](http://plaintextaccounting.org/quickref)   
 [Ledger CLI Documentation](https://www.ledger-cli.org/docs.html)   
@@ -27,6 +27,7 @@ ledgerrc
 [Report Scripts for Ledger CLI with Gnuplot](https://www.sundialdreams.com/report-scripts-for-ledger-cli-with-gnuplot/)   
 [Ledger practices](https://felixcrux.com/blog/ledger-practices)   
 [Accounting for the simple minds with plain text accounting](https://dustri.org/b/accounting-for-the-simple-minds-with-plain-text-accounting.html)   
+[Envelope budgeting with Ledger](https://rjurga.github.io/2018/05/10/ledger.html)
 
 
 
