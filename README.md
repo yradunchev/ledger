@@ -1,5 +1,13 @@
 # my ledger-cli setup
 
+### notes:
+Configuration file goes to $HOME and should be named _.ledgerrc_   
+Order of loading meta files (in _.ledgerrc_) is important.   
+
+
+### ledger configuration file
+- [ledgerrc](ledgerrc) - Configuration file for ledger
+
 ### meta files
 - [data/assets.ldg](data/assets.ldg) - Assets definitions    
 - [data/commodity.ldg](data/commodity.ldg) - Commodity definitions   
@@ -14,9 +22,6 @@
 
 ### ledger bash aliases
 - [d_ledger](d_ledger) - bash aliases and functions
-
-### ledger configuration file
-- [ledgerrc](ledgerrc) - Configuration file for ledger
 
 ## useful ledger links:
 
