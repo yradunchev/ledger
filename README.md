@@ -6,7 +6,7 @@ Order of loading meta files (in _.ledgerrc_) is important.
 
 
 ### ledger configuration file
-- [ledgerrc](ledgerrc) - Configuration file for ledger
+- [ledgerrc](.ledgerrc) - Configuration file for ledger
 
 ### meta files
 - [data/assets.ldg](data/assets.ldg) - Assets definitions    
