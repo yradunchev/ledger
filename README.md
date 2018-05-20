@@ -3,7 +3,7 @@
 ### notes:
 Configuration file goes to $HOME   
 Order of loading meta files (in _.ledgerrc_) is important.   
-
+d_ledger file to be sourced inside .bashrc
 
 ### ledger configuration file
 - [ledgerrc](.ledgerrc) - Configuration file for ledger
