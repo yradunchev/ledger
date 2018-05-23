@@ -1,4 +1,5 @@
 account Expenses:Books
+account Expenses:Car
 account Expenses:Car:Maintenance
 account Expenses:Car:Parking
 account Expenses:Car:Petrol
