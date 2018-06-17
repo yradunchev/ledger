@@ -1,6 +1,12 @@
-alias led='ledger'
+alias led='ledger -X BGN'
 alias post='vim "+normal G$" +startinsert ~/L/ledger/data/journal.ldg'
-alias assets='ledger b ^assets --flat'
-alias expenses='ledger r -r assets -s'
-alias budget='led b budget --flat -p $( date +%b )'
-alias balance='led balance --real'
+alias assets='ledger b ^assets --flat -X BGN'
+alias expenses='ledger r -r assets -s -X BGN'
+alias budget='led b budget --flat -p $( date +%b ) -X BGN'
+alias balance='led balance --real -X BGN'
+
+xrupdate () {
+ curl -s 'https://dskbank.bg/restapi/dsk/GetCurrencyRates?format=json' | 
+ sed -e 's/[{}]/\n/g' -e 's/"//g' | sed -e '2~2d' | 
+ awk  -v date="$(date +"%Y-%m-%d")" -F[,:] 'NF && $4!=0{print "P " date" 00:00:00 "$6" "$4 " BGN"}' >> ~/L/ledger/data/prices.db
+}
