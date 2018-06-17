@@ -5,12 +5,13 @@ account Budget:Available
 account Budget:Expenses:MealOut
 account Budget:Expenses:Subscriptions
 account Budget:Expenses:Pets
+account Budget:Expenses:Vacation
 
 = /^Income/
   (Budget:Available)    -1.0
 
-= /^Expenses:(?=Pets|Books|Groceries|MealOut|Subscriptions)/
+= /^Expenses:(?=Pets|Books|Groceries|MealOut|Subscriptions|Vacation)/
   (Budget:$account)    -1.0
 
-= /^Expenses:(?!Pets|Books|Groceries|MealOut|Subscriptions)/
+= /^Expenses:(?!Pets|Books|Groceries|MealOut|Subscriptions|Vacation)/
   (Budget:Available)    -1.0

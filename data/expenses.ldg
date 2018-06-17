@@ -1,10 +1,13 @@
 account Expenses:Books
 account Expenses:Car
+account Expenses:Car:Insurance
 account Expenses:Car:Maintenance
 account Expenses:Car:Parking
 account Expenses:Car:Petrol
+account Expenses:Car:TollTax
 account Expenses:ClothesShoes
 account Expenses:CoffeeWater
+account Expenses:Couriers
 account Expenses:DSKBank:Tax
 account Expenses:Entertainment
 account Expenses:Furniture
@@ -24,3 +27,4 @@ account Expenses:Utensils
 account Expenses:Utils:Electricity
 account Expenses:Utils:InetCableTv
 account Expenses:Utils:Water
+account Expenses:Vacation

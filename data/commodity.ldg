@@ -2,4 +2,7 @@ commodity BGN
   note Bulgarian Lev
     nomarket
     default
+commodity EUR
+  note Euro
+  nomarket
 
