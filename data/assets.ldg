@@ -1,6 +1,7 @@
 account Assets:Cash
-account Assets:DSKBank:Current
-account Assets:DSKBank:Savings
-account Assets:DSKBank:VirtualVisa
+account Assets:Euro
+account Assets:DSK:Current
+account Assets:DSK:Savings
+account Assets:DSK:VVisa
 account Assets:DSKBank:Other
 account Assets:Reimbursements
