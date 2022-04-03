@@ -32,8 +32,8 @@ d_ledger file to be sourced inside .bashrc
 [Report Scripts for Ledger CLI with Gnuplot](https://www.sundialdreams.com/report-scripts-for-ledger-cli-with-gnuplot/)   
 [Ledger practices](https://felixcrux.com/blog/ledger-practices)   
 [Accounting for the simple minds with plain text accounting](https://dustri.org/b/accounting-for-the-simple-minds-with-plain-text-accounting.html)   
-[Envelope budgeting with Ledger](https://rjurga.github.io/2018/05/10/ledger.html)
-[Keeping your finances at check with Ledger](https://dzx.cz/2020/02/19/ledger/)
+[Envelope budgeting with Ledger](https://rjurga.github.io/2018/05/10/ledger.html)   
+[Keeping your finances at check with Ledger](https://dzx.cz/2020/02/19/ledger/)   
 
 
 
